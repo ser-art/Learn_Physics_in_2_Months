@@ -5,9 +5,9 @@
 - [x] Playlist
 https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 #### Calculus 
-- [ ] Study Guide
+- [x] Study Guide
 http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf 
-- [ ] Playlist
+- [x] Playlist
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 ##### Probability 
 - [ ] Study Guide
